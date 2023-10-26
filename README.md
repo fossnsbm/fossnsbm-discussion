@@ -1,1 +1,1 @@
-# fossnsbm-discussion
+# Discussions for FOSS Community of NSBM
